@@ -1,0 +1,7 @@
+<smses count="11368">
+  <smss>
+    <sms protocol="0" address="900060005025" date="1534023049010" type="1" subject="null" body="You are next in line! We will be with you shortly. https://mobile.vzw.com/mmg/dof" toa="null" sc_toa="null" service_center="null" read="1" status="-1" locked="0" date_sent="1534024075000" readable_date="Aug 11, 2018 4:30:49 PM" contact_name="(Unknown)" />
+    <sms protocol="0" address="900080004000" date="1534023101990" type="1" subject="null" body="Free VZW Msg: Ready to set up your device? Tech Coach can help. Get the app at go.vzw.com/techcoach" toa="null" sc_toa="null" service_center="null" read="1" status="-1" locked="0" date_sent="1534026487000" readable_date="Aug 11, 2018 4:31:41 PM" contact_name="(Unknown)" />
+    <sms protocol="0" address="22000" date="1534023386651" type="1" subject="null" body="G-854925 is your Google verification code." toa="null" sc_toa="null" service_center="null" read="1" status="-1" locked="0" date_sent="1534026986000" readable_date="Aug 11, 2018 4:36:26 PM" contact_name="(Unknown)" />
+  </smss>
+</smses>
